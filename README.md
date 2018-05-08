@@ -2,13 +2,10 @@ This package created to run GLCED event display and display events
 
 Installation:
 
-save archive in your naf folder
-better make a new folder
 
 get the package 
 # git clone https://github.com/CALICETB/EventDisplay.git
 
-extract it 
 # cd EventDisplay/build
 # qmake -project ../eventDisplayRunner -o eventDisplay.pro 
 # qmake
