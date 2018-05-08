@@ -4,8 +4,6 @@ Installation:
 
 save archive in your naf folder
 better make a new folder
-# mkdir evendDisplay
-# cd eventDisplay
 
 get the package 
 # git clone https://github.com/CALICETB/EventDisplay.git
